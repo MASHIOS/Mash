@@ -1,2 +1,2 @@
-# Mash
+# MASH
 Locket
